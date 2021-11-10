@@ -9,6 +9,9 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Now in git bash terminal run the following command:
 `git clone https://github.com/shaad82663/id-generator`
 
+- Navigate to the project folder by running following command in terminal:
+`cd id-generator/`
+
 - Now run the following command to install the node.js libraries
 `npm install`
 
