@@ -7,22 +7,32 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Create any folder in your local machine. 
 - Navigate to this folder through git bash.
 - Now in git bash terminal run the following command:
-```git clone https://github.com/shaad82663/id-generator```
+```sh
+git clone https://github.com/shaad82663/id-generator
+```
 
 - Navigate to the project folder by running following command in terminal:
-`cd id-generator/`
+```sh
+cd id-generator/
+```
 
 - Run the following command to install the node.js packages
-`npm install`
+```sh
+npm install
+```
 
 - Run the server by running following command:
-`node index.js`
+```sh
+node index.js
+```
 
 - The ouput in the termnal will be :
 >Running server over loalhost:3000
 
 - Now open browser and type following url in URL tab
-`http://localhost:3000/`
+```sh
+http://localhost:3000/
+```
 
 -Now you can interact with web page according to UI.
 
