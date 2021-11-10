@@ -1,6 +1,6 @@
 # Avtaar Assignment -1 
 
-##  Steps to run the code (Windows)
+##  Steps to run the code (Windows OS)
 
 You'll need to have node.js installed in the machine. Git Bash is suggested as a terminal
 
@@ -12,16 +12,16 @@ You'll need to have node.js installed in the machine. Git Bash is suggested as a
 - Navigate to the project folder by running following command in terminal:
 `cd id-generator/`
 
-- Now run the following command to install the node.js libraries
+- Run the following command to install the node.js packages
 `npm install`
 
-- Now run the server by running following command:
+- Run the server by running following command:
 `node index.js`
 
 - The ouput in the termnal will be :
 >Running server over loalhost:3000
 
-- Now open browser and tpye following url in URL tab
+- Now open browser and type following url in URL tab
 `http://localhost:3000/`
 
 -Now you can interact with web page according to UI.
